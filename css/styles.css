@@ -1,0 +1,13 @@
+body {
+background: #FFFFFF;
+margin: 0 auto 0 auto;
+font-family: Arial;
+font-size: 13px;
+border-top: 1px solid #000;
+border-bottom: 1px solid #000000;
+border-left: 1px solid #aaa;
+border-right: 1px solid #aaa;
+padding: 4px 0 4px 4px;
+}
+
+
